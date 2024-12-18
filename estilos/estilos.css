@@ -27,3 +27,7 @@ footer {
     max-height: 200px;
   }
 }
+
+.main {
+  background-color: dimgray;
+}
