@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+:root {
+  --color-de-footer: ;
+}
+
 .carousel-inner {
   img {
     height: 400px;
@@ -22,6 +26,10 @@
     rgba(147, 0, 255, 1) 28%,
     rgba(255, 0, 243, 1) 99%
   );
+}
+
+.nav-link .nav-link-active {
+  color: white;
 }
 .nav-link .nav-link-active {
   color: white;
