@@ -8,6 +8,12 @@
   --color-de-footer: ;
 }
 
+.carousel-inner {
+  img {
+    height: 400px;
+    box-sizing: border-box;
+  }
+}
 .navbar {
   img {
     width: 100px;
@@ -24,4 +30,18 @@
 
 .nav-link .nav-link-active {
   color: white;
+}
+.nav-link .nav-link-active {
+  color: white;
+}
+
+footer {
+  padding: 15px 0;
+  img {
+    max-height: 200px;
+  }
+}
+
+.main {
+  background-color: dimgray;
 }
