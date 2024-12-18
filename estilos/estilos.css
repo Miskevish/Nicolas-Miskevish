@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+.carousel-inner {
+  img {
+    height: 400px;
+    box-sizing: border-box;
+  }
+}
 .navbar {
   img {
     width: 100px;
