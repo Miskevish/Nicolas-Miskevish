@@ -3,3 +3,27 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.navbar {
+  img {
+    width: 100px;
+  }
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    255deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(61, 0, 110, 1) 0%,
+    rgba(147, 0, 255, 1) 28%,
+    rgba(255, 0, 243, 1) 99%
+  );
+}
+.nav-link .nav-link-active {
+  color: white;
+}
+
+footer {
+  padding: 15px 0;
+  img {
+    max-height: 200px;
+  }
+}
