@@ -10,7 +10,7 @@
 
 .carousel-inner {
   img {
-    height: 400px;
+    height: 600px;
     box-sizing: border-box;
   }
 }
@@ -42,6 +42,6 @@ footer {
   }
 }
 
-.main {
+body {
   background-color: dimgray;
 }
